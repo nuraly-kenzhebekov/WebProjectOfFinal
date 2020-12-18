@@ -6,4 +6,4 @@
 # Languages : JS,CSS,HTML
 
 
-##URL: https://nuraly-kenzhebekov.github.io/WebProjectOfFinal/.
+
